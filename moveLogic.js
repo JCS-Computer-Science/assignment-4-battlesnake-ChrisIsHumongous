@@ -4,6 +4,7 @@ export default function move(gameState){
         down: true,
         left: true,
         right: true
+        
     };
     
     // We've included code to prevent your Battlesnake from moving backwards
